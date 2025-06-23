@@ -1,6 +1,6 @@
 # Flink Application Sandbox
 
-This repository serves as a sandbox for developing, packaging, and deploying Apache Flink applications using the Table API and SQL. It is designed for experimentation and iteration of deployments using Flink Kubernetes Operator.
+This repository serves as a starter-template for developing, packaging, and deploying Apache Flink applications using the Table API and SQL. Specifically, it is designed for experimentation and iteration of deployments using Flink Kubernetes Operator.
 ## Repository Structure
 
 - `src/main/java/`: Java source files for Flink jobs.
